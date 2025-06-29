@@ -56,7 +56,4 @@ This project demonstrates object-oriented programming principles, database conne
 ├── Parcel_Delivery_Management_System.csproj
 
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tanjil-islam/Parcel-Delivery-System-CSharp.git
+
